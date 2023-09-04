@@ -1,4 +1,4 @@
-# docker-install
+# Docker Installation
 
 
 ### Quick Install
