@@ -1,20 +1,19 @@
 1. AWS Management Console:
+Web-based interface for managing AWS services
 
-Web-based interface for managing AWS services.
 2. AWS Global Infrastructure:
+AWS global data center network
 
-AWS global data center network.
-3. Availability Zones:
+4. Availability Zones:
+AWS data center clusters
 
-AWS data center clusters.
-4. Amazon EC2 Instance Types:
+5. Amazon EC2 Instance Types:
+EC2 virtual machine configurations
 
-EC2 virtual machine configurations.
-5. Storage and Database:
-
-Amazon S3: Object storage.
-Amazon RDS: Managed databases.
-Amazon DynamoDB: Managed NoSQL.
+6. Storage and Database:
+Amazon S3: Object storage
+Amazon RDS: Managed databases
+Amazon DynamoDB: Managed NoSQL
 
 
 # Docker Installation
