@@ -2,7 +2,7 @@
    - Web-based interface for managing AWS services
 
 **AWS Global Infrastructure:**
-   - AWS global data center network
+   - AWS global data center network.
 
 **Availability Zones:**
    - AWS data center clusters
